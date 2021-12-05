@@ -1,0 +1,24 @@
+@media screen and (max-width: 768px) {
+	.nav-bar{
+	background-color: white;
+	width: 76%;
+	height: auto;
+	margin: auto;
+	border: 1px solid #919191;
+
+}
+.div-one{
+	background-color: white;
+	width: 100%;
+	height: auto;
+	
+	padding-right: 3px;
+}
+.div-two{
+	background-color: white;
+	width: 100%;
+	height: auto;
+	
+	padding-left: 6px;
+}
+}
